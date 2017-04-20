@@ -48,6 +48,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cximagecrtdll", "CxImage\CxImageDLL\cximagecrtdll.vcxproj", "{771FDA7B-A299-4974-982D-8B77973C7896}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cximagetest", "cximagetest\cximagetest.vcxproj", "{8E607262-D0EE-4E94-A3A5-568BA50C0B84}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B8C41401-6A2B-488D-B198-B0564C2B7404} = {B8C41401-6A2B-488D-B198-B0564C2B7404}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
