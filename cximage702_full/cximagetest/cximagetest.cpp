@@ -1,7 +1,7 @@
 // cximagetest.cpp : Defines the entry point for the console application.
 //
 #include <iostream>
-#include "funset.h"
+#include "funset.h" 
 #include "ximage.h"
 
 using namespace std;
